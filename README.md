@@ -4,4 +4,4 @@ The python script crawls Google's art and culture webpage: https://artsandcultur
 
 The website contains artworks from the best 84 galleries all over the world like Musee D'Orsay in Paris or Moma in New York. 
 
-Work in progress
+This is the first draft of the crawler for the Google Art Website. The only thing that is still in progress is to show the hidden images.
